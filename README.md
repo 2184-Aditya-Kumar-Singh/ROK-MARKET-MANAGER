@@ -103,7 +103,7 @@ This repo is intended for server hosts and bot maintainers. If you’d like a cu
 ---
 
 ## License
-Replace with the license of your choice (for example: MIT). If you need a recommendation, MIT is a common permissive license that works for most community bots.
+MIT
 
 ---
 
