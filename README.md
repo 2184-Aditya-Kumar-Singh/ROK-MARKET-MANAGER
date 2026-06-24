@@ -97,7 +97,7 @@ This repo is intended for server hosts and bot maintainers. If you’d like a cu
 ---
 
 ## Contact & contribution
-- Maintainer: (add your contact or Discord handle here)
+- Maintainer: Mr Edd (Discord ID->end.is.near_)
 - To contribute: open an issue or submit a pull request with suggested improvements, wording changes, or additional non-technical documentation.
 
 ---
